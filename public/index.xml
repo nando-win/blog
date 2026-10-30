@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Meu Blog</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Meu Blog</description>
+		<generator>Hugo</generator>
+		<language>pt-br</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 23 Oct 2026 10:50:58 -0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello World</title>
+				<link>http://localhost:1313/posts/hello-world/</link>
+				<pubDate>Fri, 23 Oct 2026 10:50:58 -0300</pubDate>
+				<guid>http://localhost:1313/posts/hello-world/</guid>
+				<description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;&#xA;&lt;p&gt;Minha primeira postagem usando Hugo.&lt;/p&gt;&#xA;&lt;p&gt;Este blog foi criado durante o Git Workshop.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sobre-mim&#34;&gt;Sobre mim&lt;/h2&gt;&#xA;&lt;p&gt;Bacharel em Ciência da computação, cursando pós-graduação em Engenharia de Software com DEVOPS na Universidade de Fortaleza.&#xA;Atuando como desenvolvedor a cerca de 10 anos, já desempenhado cargos de gestão e liderança, e atualmente como especialista em Salesforce Core.&lt;/p&gt;&#xA;&lt;p&gt;Foco em grandes empresas dos setores de industrias e bancos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;o-que-estou-aprendendo&#34;&gt;O que estou aprendendo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;li&gt;Markdown&lt;/li&gt;&#xA;&lt;li&gt;Hugo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Este é meu primeiro projeto de blog!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
